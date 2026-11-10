@@ -1,0 +1,8 @@
+{
+  "name": "Physigma",
+  "description": "Media pembelajaran simulasi fisika digital interaktif berbasis investigasi sains, eksperimen virtual, dan pemecahan misteri fenomena alam untuk siswa SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
